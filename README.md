@@ -22,4 +22,4 @@ Zajęcia 7 - https://www.kaggle.com/learn/intro-to-machine-learning
 
 Zajęcia 8 - https://www.kaggle.com/learn/pandas (części 1, 2, 3)
 
-Zajęcia 9 - https://www.kaggle.com/c/cat-in-the-dat/overview 
+Zajęcia 9 - ? Titanic
