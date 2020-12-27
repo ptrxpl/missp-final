@@ -23,4 +23,4 @@ Pliki z folderów od "Zajęcia 7" do "Zajęcia 9" działają tylko i wyłącznie
 
 **Zajęcia 8** - https://www.kaggle.com/learn/pandas (części 1, 2, 3)
 
-**Titanic** -  Titanic
+**Titanic** -  https://www.kaggle.com/c/titanic
