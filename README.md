@@ -1,9 +1,10 @@
-## MISSP
+## MISSP 2020/21
 
-1. Pliki od "zajecia_1" do "zajecia_6" działają na Google Colab.
+Pliki od "zajecia_1" do "zajecia_6" działają na Google Colab.
 
-2. Pliki z folderów od "Zajęcia 7" do "Zajęcia 9" działają tylko i wyłącznie na Kaggle.
+Pliki z folderów od "Zajęcia 7" do "Zajęcia 9" działają tylko i wyłącznie na Kaggle.
 
+<br/>
 
 
 **Zajęcia 1** - podstawy, sortowanie, szukanie
