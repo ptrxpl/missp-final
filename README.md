@@ -2,7 +2,7 @@
 
 Pliki od "zajecia_1" do "zajecia_6" działają na Google Colab.
 
-Pliki z folderów "Zajęcia 7" i "Zajęcia 9" działają tylko i wyłącznie na Kaggle - najlepiej odpalić dany kurs i przekleić cały kod.
+Pliki z folderów "Zajęcia 7" i "Zajęcia 8" działają tylko i wyłącznie na Kaggle - najlepiej odpalić dany kurs i przekleić cały kod.
 
 <br/>
 
