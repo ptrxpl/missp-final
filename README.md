@@ -2,12 +2,9 @@
 
 Pliki od "zajecia_1" do "zajecia_6" działają na Google Colab.
 
-Pliki z folderów "Zajęcia 7" i "Zajęcia 9" działają tylko i wyłącznie na Kaggle.
-
-Titanic jest możliwy do otworzenia tylko i wyłącznie na Kaggle.
+Pliki z folderów "Zajęcia 7" i "Zajęcia 9" działają tylko i wyłącznie na Kaggle - najlepiej odpalić dany kurs i przekleić cały kod.
 
 <br/>
-
 
 **Zajęcia 1** - podstawy, sortowanie, szukanie
 
@@ -25,4 +22,4 @@ Titanic jest możliwy do otworzenia tylko i wyłącznie na Kaggle.
 
 **Zajęcia 8** - https://www.kaggle.com/learn/pandas (części 1, 2, 3)
 
-**Titanic** -  https://www.kaggle.com/c/titanic
+**Titanic** -  https://www.kaggle.com/c/titanic, pliki do Titanica znajdują się w folderze **misc**
