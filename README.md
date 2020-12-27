@@ -2,7 +2,9 @@
 
 Pliki od "zajecia_1" do "zajecia_6" działają na Google Colab.
 
-Pliki z folderów od "Zajęcia 7" do "Zajęcia 9" działają tylko i wyłącznie na Kaggle.
+Pliki z folderów "Zajęcia 7" i "Zajęcia 9" działają tylko i wyłącznie na Kaggle.
+
+Titanic jest możliwy do otworzenia tylko i wyłącznie na Kaggle.
 
 <br/>
 
