@@ -23,3 +23,10 @@ Pliki z folderów "Zajęcia 7" i "Zajęcia 9" działają tylko i wyłącznie na 
 **Zajęcia 8** - https://www.kaggle.com/learn/pandas (części 1, 2, 3)
 
 **Titanic** -  https://www.kaggle.com/c/titanic, pliki do Titanica znajdują się w folderze **misc**
+
+Titanica można odpalić na Kaggle (zostawiając jak jest) - należy jednak pamiętać o wrzuceniu (lub zimportowaniu) plików.<br>
+Można też odpalić na Google Colab, wtedy należy (najszybciej) zamienić na początku linijki z wczytywania plików na następujące:<br>
+```
+train = pd.read_csv('https://raw.githubusercontent.com/ptrxpl/missp-final/main/misc/train.csv', header = 0, dtype={'Age': np.float64})
+test  = pd.read_csv('https://raw.githubusercontent.com/ptrxpl/missp-final/main/misc/test.csv' , header = 0, dtype={'Age': np.float64})
+```
